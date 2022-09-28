@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kumarrV8
 - 👀 I’m interested in machine learning and AI
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ML and AI
 - 📫 How to reach me -- vkzzz@outlook.com
 
 <!---
